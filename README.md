@@ -31,7 +31,7 @@ Current Mode     : Learning + Building
 Core Identity    : CSE AIML student who writes about AI and builds with code
 Focus Areas      : AI-native apps, ML products, quantum computing, databases
 Builder Flow     : Research -> Prototype -> Product -> Story
-
+```
 Current Focus
 <table> <tr> <td width="50%"> <h3>AI-Native Engineering</h3> <p>Learning to build products where AI is the core experience, not just an added feature.</p> </td> <td width="50%"> <h3>AIML + Product Systems</h3> <p>Studying machine learning and applying it through practical dashboards, apps, and tools.</p> </td> </tr> <tr> <td width="50%"> <h3>AI Journalism</h3> <p>Exploring generative AI, AI tools, and emerging technology through research and writing.</p> </td> <td width="50%"> <h3>Experimental Interfaces</h3> <p>Creating interactive web experiences with simulations, gestures, motion, and intelligent UX.</p> </td> </tr> </table>
 Featured Builds
