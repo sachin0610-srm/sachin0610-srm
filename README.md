@@ -137,13 +137,12 @@ Builder Flow     : Research -> Prototype -> Product -> Story
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sachin0610-srm&show_icons=true&hide_border=true&bg_color=07111f&title_color=2dd4bf&text_color=ccfbf1&icon_color=5eead4" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin0610-srm&layout=compact&hide_border=true&bg_color=07111f&title_color=2dd4bf&text_color=ccfbf1" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sachin0610-srm&hide_border=true&background=07111f&stroke=2dd4bf&ring=2dd4bf&fire=5eead4&currStreakNum=ccfbf1&sideNums=ccfbf1&currStreakLabel=2dd4bf&sideLabels=2dd4bf&dates=94a3b8" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachin0610-srm&hide_border=true&bg_color=07111f&color=ccfbf1&line=2dd4bf&point=f8fafc&area=true&area_color=0f766e" width="96%" />
 
 </div>
+
 
 ---
 
