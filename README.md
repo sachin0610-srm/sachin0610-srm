@@ -32,6 +32,14 @@ Core Identity    : CSE AIML student who writes about AI and builds with code
 Focus Areas      : AI-native apps, ML products, quantum computing, databases
 Builder Flow     : Research -> Prototype -> Product -> Story
 ```
+---
+
+## Mission
+
+I am building toward becoming an **AI-native engineer** who can research, explain, prototype, and ship intelligent software products.
+
+My goal is to connect **AI journalism**, **AIML engineering**, and **full-stack product development** into one clear builder identity.
+
 
 ---
 
