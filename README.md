@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,45:123047,100:2dd4bf&height=210&section=header&text=Sachin&fontSize=58&fontColor=f8fafc&animation=fadeIn&fontAlignY=36&desc=CSE%20AIML%20Student%20%7C%20AI%20Journalist%20%7C%20AI-Native%20Builder&descSize=17&descAlignY=55&descColor=ccfbf1" width="100%" />
 
-### I don't just write about AI. I am learning, building, and shipping AI-native products with code.
+### Building at the edge of AI, software, quantum systems, and interactive experiences.
 
 <p>
   <a href="https://github.com/sachin0610-srm">
@@ -22,9 +22,9 @@
 
 ## Field Notes
 
-I am a **CSE student specializing in AIML**, exploring the intersection of artificial intelligence, software development, emerging technology, and technical storytelling.
+I am a **CSE student specializing in AIML** at SRMIST, building at the intersection of artificial intelligence, full-stack engineering, quantum computing, physics simulation, and creative coding.
 
-I am currently developing myself as an **AI journalist**, **AIML engineer**, and **AI-native product builder**. I write about AI, use generative AI tools deeply, and build websites, apps, simulations, dashboards, and intelligent systems.
+I learn by making. Every project is a way to explore something deeper: AI-native products, orbital simulations, gesture-based interfaces, quantum circuits, databases, and generative systems.
 
 ```txt
 Current Mode     : Learning + Building
@@ -40,6 +40,13 @@ I am building toward becoming an **AI-native engineer** who can research, explai
 
 My goal is to connect **AI journalism**, **AIML engineering**, and **full-stack product development** into one clear builder identity.
 
+---
+
+## Design Identity
+
+My work leans toward experimental AI lab interfaces: dark visual systems, cinematic typography, project-first storytelling, generative visuals, and interactive product experiences.
+
+I want my projects to feel technical, curious, visual, and built from first principles.
 
 ---
 
@@ -156,12 +163,6 @@ My goal is to connect **AI journalism**, **AIML engineering**, and **full-stack 
 
 ## Operating Philosophy
 
-> Research deeply. Build visibly. Explain clearly. Ship intelligently.
+> Learn by making. Build what feels impossible. Explain what matters.
 
-I am building the bridge between **AI learning**, **technical storytelling**, and **software products**.
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,55:123047,100:07111f&height=120&section=footer&text=Learning%20and%20building%20AI-native%20interfaces%20for%20real%20problems.&fontSize=18&fontColor=f8fafc&animation=twinkling" width="100%" />
-
-</div>
+I am building the bridge between **AI learning**, **technical storytelling**, **creative coding**, and **software products**.
