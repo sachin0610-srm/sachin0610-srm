@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2800&pause=900&color=BAE6FD&center=true&vCenter=true&width=780&lines=%24+status+%3E+Learning+AI%2FML+%26+building+with+code;%24+focus+%3E+AI-native+products+%2B+creative+systems;%24+ship+%3E+Quantum+%7C+DBMS+%7C+Full-stack+projects;%24+echo+%22Learn+by+making.%22" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2800&pause=900&color=BAE6FD&center=true&vCenter=true&width=980&lines=%24+whoami+%3E+Sachin+K.;%24+identity+%3E+CSE+AIML+student+%7C+AI-native+engineer+in+progress;%24+building+%3E+AI%2FML+apps+%7C+Quantum+circuits+%7C+Temporal+DBMS;%24+systems+%3E+Orbital+simulation+%7C+Gesture+AI+%7C+Physics+visualizers;%24+mode+%3E+Solo+developer+learning+by+making" alt="Typing SVG" />
 
 ### Building at the edge of AI, software, quantum systems, and interactive experiences.
 
