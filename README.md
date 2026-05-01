@@ -2,6 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,45:123047,100:2dd4bf&height=210&section=header&text=Sachin&fontSize=58&fontColor=f8fafc&animation=fadeIn&fontAlignY=36&desc=CSE%20AIML%20Student%20%7C%20AI%20Journalist%20%7C%20AI-Native%20Builder&descSize=17&descAlignY=55&descColor=ccfbf1" width="100%" />
 
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2800&pause=900&color=BAE6FD&center=true&vCenter=true&width=780&lines=%24+status+%3E+Learning+AI%2FML+%26+building+with+code;%24+focus+%3E+AI-native+products+%2B+creative+systems;%24+ship+%3E+Quantum+%7C+DBMS+%7C+Full-stack+projects;%24+echo+%22Learn+by+making.%22" alt="Typing SVG" />
+
 ### Building at the edge of AI, software, quantum systems, and interactive experiences.
 
 <p>
