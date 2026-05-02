@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,45:123047,100:2dd4bf&height=210&section=header&text=Sachin&fontSize=58&fontColor=f8fafc&animation=fadeIn&fontAlignY=36&desc=CSE%20AIML%20Student%20%7C%20AI%20Journalist%20%7C%20AI-Native%20Builder&descSize=17&descAlignY=55&descColor=ccfbf1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,45:123047,100:2dd4bf&height=210&section=header&text=Sachin&fontSize=58&fontColor=f8fafc&animation=fadeIn&fontAlignY=36&desc=CSE%20AIML%20Student%20%7C%20AI-Native%20Engineer%20in%20Progress%20%7C%20Solo%20Developer&descSize=17&descAlignY=55&descColor=ccfbf1" width="100%" />
 
 <br/>
 
@@ -31,18 +31,19 @@ I am a **CSE student specializing in AIML** at SRMIST, building at the intersect
 I learn by making. Every project is a way to explore something deeper: AI-native products, orbital simulations, gesture-based interfaces, quantum circuits, databases, and generative systems.
 
 ```txt
-Current Mode     : Learning + Building
-Core Identity    : CSE AIML student who writes about AI and builds with code
-Focus Areas      : AI-native apps, ML products, quantum computing, databases
+Current Mode     : Learning + Building + Shipping
+Core Identity    : CSE AIML student building AI-native systems
+Focus Areas      : AI/ML apps, quantum circuits, temporal DBMS, simulations
 Builder Flow     : Research -> Prototype -> Product -> Story
 ```
+
 ---
 
 ## Mission
 
 I am building toward becoming an **AI-native engineer** who can research, explain, prototype, and ship intelligent software products.
 
-My goal is to connect **AI journalism**, **AIML engineering**, and **full-stack product development** into one clear builder identity.
+My goal is to connect **AI journalism**, **AIML engineering**, **generative AI workflows**, and **full-stack product development** into one clear builder identity.
 
 ---
 
@@ -170,3 +171,9 @@ I want my projects to feel technical, curious, visual, and built from first prin
 > Learn by making. Build what feels impossible. Explain what matters.
 
 I am building the bridge between **AI learning**, **technical storytelling**, **creative coding**, and **software products**.
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,55:123047,100:07111f&height=120&section=footer&text=Learning%20by%20making.%20Shipping%20real%20projects.&fontSize=18&fontColor=f8fafc&animation=twinkling" width="100%" />
+
+</div>
